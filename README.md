@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.macupdate.com/products/6771/l/transmit-logo.png?v=1669040857" width="100" alt="Transmit icon"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/55/Transmit_FTP_Client_Logo.png" width="100" alt="Transmit icon"/>
 </p>
 <h1 align="center">Transmit</h1>
 <p align="center">Native file transfer and cloud client — done right on macOS.</p>
@@ -16,7 +16,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/348787/m/transmit-screenshot.png?v=1669040860" alt="Transmit — macOS file transfer and cloud client screenshot" width="780"/>
+  <img src="https://panic.com/transmit/images/screenshot1-dark@2x.png" alt="Transmit — macOS file transfer and cloud client screenshot" width="780"/>
 </p>
 
 ---
